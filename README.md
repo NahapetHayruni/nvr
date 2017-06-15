@@ -10,7 +10,7 @@
 	- docker build .
 
 ### How to deploy:
-	- docker build -t <docker name and version>
+	- docker build -t <docker name:version>
 	- docker push
 
 ### Third party libraries used:
